@@ -1,3 +1,37 @@
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav,
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+p
+#featured-property {
+  width: 800px;
+  text-align: center;
+}
+p #details {
+  orientation: horizontal;
+}
+div {
+  float: left;
+  orientation: horizontal;
+  background-color: aqua;
+  width: 25%;
+
+
+}
+
 body {
   width: 100%;
   height: 100%;
